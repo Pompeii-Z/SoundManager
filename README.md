@@ -1,4 +1,4 @@
-#Unity中实现音频管理 AudioMixer的使用
+# Unity中实现音频管理 AudioMixer的使用
 
 ## 一，较为通用的方法 
 1. 创建AudioManager类，该类一般使用单例实现，方便后续在其它地方调用。
